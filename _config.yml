@@ -17,8 +17,8 @@ date: 2019
 url: https:/marcosvdotcom.github.io
 # baseurl: /voices
 baseurl: /cpmr
-github_username: uidaholib
-github_repository: https://github.com/uidaholib/gayrodeo_source
+github_username: marcosvdotcom
+github_repository: https://github.com/marcosvdotcom/cpmr
 
 collections:
   transcripts:
