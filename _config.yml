@@ -14,9 +14,9 @@ date: 2019
 #need to change below
 
 # library's domain (only changed if using github pages)
-url: https://www.lib.uidaho.edu
+url: https:/marcosvdotcom.github.io
 # baseurl: /voices
-baseurl: /digital/cpmr
+baseurl: /cpmr
 github_username: uidaholib
 github_repository: https://github.com/uidaholib/gayrodeo_source
 
