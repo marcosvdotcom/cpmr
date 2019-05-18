@@ -2,7 +2,7 @@
 object-id: gomez 
 transcript: transcript-gomez  
 first-name: Anna
-last-name: Nieto-Gomez
+last-name: NietoGomez
 date-interviewed: TBD
 location: Austin, Texas
 interviewer: Maria Cotera
